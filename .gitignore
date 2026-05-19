@@ -2,3 +2,5 @@ venv/          # ignore virtual environment
 .env           # ignore secret API keys
 __pycache__/   # ignore Python cache folders
 *.pyc          # ignore compiled Python files
+similarity.pkl
+*.csv
